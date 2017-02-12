@@ -1,6 +1,6 @@
 *.classpath
-W02 Palyndrome/.project
+*.project
 *.ini
 *.class
-W02 Palyndrome/.settings/org.eclipse.jdt.core.prefs
+*.prefs
 W02 Palyndrome/src/MyMain.java
