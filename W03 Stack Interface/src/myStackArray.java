@@ -52,7 +52,7 @@ public class myStackArray implements myStack{
 		return this.index == 0;
 	}
 
-public String printArray(){
-	return Arrays.toString(this.myArray) + " size: " +  this.index;
-}
+	public String printArray(){
+		return Arrays.toString(this.myArray) + " size: " +  this.index;
+	}
 }
